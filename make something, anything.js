@@ -26,4 +26,5 @@ image(img2, 200, 100, width/2.5, height/2.5);
 text("Tom Brady Completes 67% of his passes", 10, 370)
 fill (300, 17, 13)
 	//This is where I put the "67%" of my statistic
+	
 }
